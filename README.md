@@ -34,7 +34,8 @@ _________________________________
 
  ##  Summary business recommendations for addressing any disparities among the city types.
 
-1. Carry out marketing campaigns to generate greater demands.
+
+### 1. Carry out marketing campaigns to generate greater demands.
 
     The averanges about rides count by city are:
 
@@ -47,15 +48,15 @@ _________________________________
 
     The ratios about rides vs drivers are: 
 
-    - Urban: 0.67
-    - Suburban : 1.2
-    - Rural : 1.6 
+        - Urban: 0.67
+        - Suburban : 1.2
+        - Rural : 1.6 
 
     It's possible that the urban drivers didn't have a trip in the period from January to May. This behavior is almost equal in suburban and rural cities, with different ratios.
 
     It is essential to **carry out marketing campaigns to generate greater demands** for change, the ratio of trips vs. drivers, and generate a greater profit from drivers.
 
-2. Human resources management with projection in future demand
+### 2. Human resources management with projection in future demand
 
     In urban cities, demand exceeds supply, this makes fare travel cheaper. The opposite happened in rural cities. It's recommendable to have the correct number of drivers per city.
 
@@ -64,7 +65,7 @@ _________________________________
 ### Liner plot Total rides by date
 ![alt text](./analysis/PyBer_ride_summary_3.png)
 
-3. Create universal KPI to measure 
+### 3. Create universal KPI to measure 
 
     The nature of each type of city creates micro markets. For urban cities, the movement is greater than that of a rural-type city. It is necessary to create KPI that apply to all types of cities, it could be travel vs. population.
 
