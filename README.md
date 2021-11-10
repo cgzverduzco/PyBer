@@ -1,5 +1,5 @@
 # PyBer_Challenge
-Challenge Module 5 Boot Camp
+Python
 
 ## Overview of the PyBer data analisys:
 The FiBer company wants to know the behavior of the customers rides in different types of cities for create wisdom for making the right decision
